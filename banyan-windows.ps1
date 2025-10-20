@@ -30,7 +30,7 @@ $ALLOW_MULTIORG = $false
 $MULTI_USER = $true
 
 # Preview Feature: Allow App via NetFirewallRule for Windows Firewall.
-$ALLOW_APP = $false
+$ALLOW_APP = $true
 
 
 ################################################################################
